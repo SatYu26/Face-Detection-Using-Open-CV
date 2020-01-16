@@ -1,0 +1,1 @@
+This Open-CV projects detects the face in any provided picture.
